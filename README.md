@@ -17,4 +17,5 @@
   2. Установить необходимые библиотеки из файла requirements.txt
   3. Запустить bash-скрипт
 
-     
+
+![alt text](<Screenshot 2024-05-16 at 23-57-44 Dashboard Jenkins.png>)
